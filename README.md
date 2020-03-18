@@ -4,29 +4,30 @@ description: >-
   (COVID-19) outbreak.
 ---
 
-# Corona Safe
+# కరోనా సేఫ్
 
-![A crowd-sourced guide to staying safe in Coronavirus disease \(COVID-19\) outbreak.](.gitbook/assets/coronasafe-logo.png)
+![&#xC15;&#xC30;&#xC4B;&#xC28;&#xC3E;&#xC35;&#xC48;&#xC30;&#xC38;&#xC4D; \(COVID-19\) &#xC28;&#xC41;&#xC02;&#xC1A;&#xC3F; &#xC38;&#xC41;&#xC30;&#xC15;&#xC4D;&#xC37;&#xC3F;&#xC24;&#xC02;&#xC17;&#xC3E; &#xC09;&#xC02;&#xC21;&#xC1F;&#xC3E;&#xC28;&#xC3F;&#xC15;&#xC3F; &#xC38;&#xC32;&#xC39;&#xC3E;&#xC32;&#xC41;, &#xC38;&#xC42;&#xC1A;&#xC28;&#xC32;&#xC41;.](https://github.com/coronasafe/telugu/tree/53a8c60a9312bb09d9da7f0c5754b7fd8d3ff78d/.gitbook/assets/coronasafe-logo.png)
 
-Coronaviruses refer to the family of viruses that are known to cause respiratory infections in both animals and humans. There are seven coronaviruses that are currently known to affect humans, out of which four are commonly found across the globe and cause mild cold like symptoms only. The remaining three are known to cause severe diseases such as [Middle East Respiratory Syndrome, or MERS caused by MERS-CoV](https://www.who.int/emergencies/mers-cov/en/), [Severe Acute Respiratory Syndrome caused by SARS-CoV](https://www.who.int/csr/sars/en/) and finally [Coronavirus Disease 2019 caused by SARS-CoV-2](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+కరోనావైరస్ శ్వాసకోశ ఇన్ఫెక్షన్లకు కారణమయ్యే వైరస్ల కుటుంబానికి చెందినది. ఇది జంతువుల నుంచి మానవులకు వ్యాపించే వైరస్. ప్రస్తుతం ఏడు కరోనావైరస్ లను గుర్తించారు. ఇవి మనుషులను ప్రభావితం చేసే వైరస్లు. వీటిలో నాలుగు వైరస్ల ఎటువంటి ప్రాణాపాయ ప్రమాదం లేదు. మిగిలిన మూడు తీవ్రమైన వ్యాధులకు కారణమవుతాయి. [మిడిల్ ఈస్ట్ రెస్పిరేటరీ సిండ్రోమ్](https://www.who.int/csr/sars/en/), [లేదా MERS-CoV వల్ల కలిగే మెర్స్](https://www.who.int/csr/sars/en/), [తీవ్రమైన అక్యూట్ సార్స్ వల్ల కలిగే SARS-CoV-2 వంటివి శ్వాసకోశ సిండ్రోమ్](https://www.cdc.gov/coronavirus/2019-ncov/index.html) ద్వారా వ్యాప్తిచెందుతాయి.
 
-[COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) is a novel coronavirus that has never been previously identified in humans. It is zoonotic in nature, which means it can be transmitted from animal to human, and human to human interactions. It was first [reported](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/) from Wuhan City on 31 December 2019 in China. The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea.
+[COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) అనే కరోనావైరస్ ను ఇంతకుముందు గుర్తించలేదు. అది ప్రకృతిలో జంతువు నుండి మానవునికి వ్యాపించే వైరస్. ఇది [మొట్టమొదట](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/) చైనాలోని  వుహాన్ సిటీ నుండి 31 డిసెంబర్ 2019 న తన ప్రతాపాన్ని చూపింది. జ్వరం, అలసట మరియు పొడి దగ్గు వంటి వాటివల్ల COVID-19 వైరస్ వ్యాప్తి చెందుతుంది. కొంతమంది రోగులకు నొప్పులు, నాసికా రద్దీ, ముక్కు కారటం, గొంతు నొప్పి లేదా అతిసారం వంటివాటి వల్ల కూడా ఇది వ్యాపిస్తుంది.
 
-Around 80% of the infected show only mild symptoms and recover with standard medical attention. Older people and those with an underlying or previous medical condition develop serious symptoms and without medical intervention can prove fatal. Around 14% of the infected become seriously ill and 5% critical as per the studies.
+  
+వైరస్ సోకిన వారిలో 80% మంది వైద్య సహాయంతోనే కోలుకుంటారు. వృద్ధులు మరియు అనారోగ్యంతో ఉన్నవారికి వేగంగా కరోనా వ్యాప్తి చెందే అవకాశం ఉంటుంది. వైరస్ సోకిన వారిలో 14% మంది తీవ్ర అనారోగ్యానికి గురవుతారు. అధ్యయనాల ప్రకారం 5% మంది మాత్రమే ప్రాణాలను పొగొట్టుకునే అవకాశం ఉంటుంది.
 
-The virus has affected more than 100,000 globally and has caused more than 3000 deaths. WHO has given the status of Very High Risk at the Global Level.
+ఈ వైరస్ ప్రపంచవ్యాప్తంగా 100,000 కన్నా ఎక్కువ మందిని ప్రభావితం చేసింది. 6000 మందికి పైగా మరణాలకు కారణమైంది. ఈ వైరస్ కు WHO గ్లోబల్ స్థాయిలో వెరీ హై రిస్క్ వైరస్ గా ప్రకటించింది.
 
 {% hint style="danger" %}
 This guide is still a Work In Progress. Until some sections are complete we will be providing the official links for reference. You have to follow those instructions until the guide gets updated.
 {% endhint %}
 
-## Why does this guide exist ?
+ఈ సూచనల ముఖ్య ఉద్దేశం ఏంటి?
 
-> **This guide is intended as a hub to collect information regarding preventive measures, information about the virus strain and official resources. These instructions are compiled from a variety of official sources.**
+> వైరస్ నివారణ చర్యలు, వైరస్ జాతి గురించి సమాచారం, అధికారిక ప్రకటనలకు సంబంధించిన సమాచారాన్ని తెలుసుకోవడానికి ఈ గైడ్ నిర్ణయించబడింది. ఈ సూచనలు వివిధ అధికారిక సమాచారాల నుండి గుర్తించబడ్డాయి.
 
-COVID-19 is a novel corona virus, which means there isn't that much amount of information and public awareness about it. Most of the information is spread across a lot of independent governmental and non-governmental websites. There is also a lot of fake news and incorrect information circulating on Social Media about COVID-19 many of them life threatening.
+COVID-19 అనే కరోనా వైరస్ గురించి చాలా మందికి అవగాహన లేదు. ప్రభుత్వాలు మరియు ప్రభుత్వేతర వెబ్‌సైట్లలో వైరస్ గురించి సమాచారం ఉంటుంది. అయితే COVID-19 గురించి చాలా నకిలీ వార్తలు, తప్పుడు సమాచారం సోషల్ మీడియాలో ప్రసారం అవుతోంది.
 
-This guide aggregates all that information into a single hub and distills into a user friendly format. This guide is also localized into many regional and national languages for a wider audience. We are always looking for contributors, you can [help out here](https://www.coronasafe.in/contribute).
+ఈ గైడ్ ఆ సమాచారాన్ని కూడా మీకు తెలుపుతుంది. వినియోగదారులు భయపడకుండా ఉండేందుకు, వాస్తవాలను తెలుసుకునేందుకు ఈ గైడ్ [ఉపయోగపడుతుంది](https://www.coronasafe.in/contribute).
 
 ## **Contents**
 
