@@ -1,11 +1,11 @@
 # Table of contents
 
 * [కరోనా సేఫ్](README.md)
-* [Precautions and Preventive Measures](precautions.md)
-* [Symptoms](symptoms.md)
-* [Old People and People with Medical Issues](old-and-people-with-medical-issues.md)
-* [Health Advisory Guidelines by Kerala Government](health-advisories-by-kerala-government.md)
-* [Myths and Fake News](myths-and-fake-news.md)
+* [జాగ్రత్తలు మరియు నివారణ చర్యలు](precautions.md)
+* [లక్షణాలు](symptoms.md)
+* [వృద్దులు లేదా అనారోగ్య సమస్యలు ఉన్నవారు](old-and-people-with-medical-issues.md)
+* [కేరళ ప్రభుత్వం చేపడుతున్న ఆరోగ్య సలహా మార్గదర్శకాలు](health-advisories-by-kerala-government.md)
+* [అపోహలు మరియు నకిలీ వార్తలు](myths-and-fake-news.md)
 * [FAQ](faq.md)
 * [Contribute](contribute.md)
 

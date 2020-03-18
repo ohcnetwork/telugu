@@ -2,7 +2,7 @@
 description: Describes the major symptoms of COVID-19.
 ---
 
-# Symptoms
+# లక్షణాలు
 
 The most common symptoms of COVID-19 are fever, tiredness, and dry cough. They are usually mild and begin gradually. They appear around [2 - 14 days](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html) with average symptoms showing up after 5 days of being infected.
 

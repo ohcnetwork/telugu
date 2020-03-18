@@ -4,7 +4,7 @@ description: >-
   COVID-19 outbreak.
 ---
 
-# Health Advisory Guidelines by Kerala Government
+# కేరళ ప్రభుత్వం చేపడుతున్న ఆరోగ్య సలహా మార్గదర్శకాలు
 
 Given below are the Guidelines given by the Directorate of health services, Govt Of Kerala, for handling the outbreak of Corona Virus.
 
