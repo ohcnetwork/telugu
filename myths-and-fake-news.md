@@ -1,33 +1,33 @@
 ---
-description: Lists the common myths about COVID-19
+description: COVID-19 సాధారణ అపోహలు ఇవే
 ---
 
 # అపోహలు మరియు నకిలీ వార్తలు
 
-There are a lot of myths and fake news that are both dangerous to yourselves and others circulating on Social Media. Never share any information that you have not verified yourself or that isn't from official sources, it will do more harm than good.
+సోషల్ మీడియాలో కరోనా వైరస్ గురించి అపోహలు, నకిలీ వార్తలు చాలా వస్తున్నాయి. వాటిని ఒకసారి పరిశీలించడం ద్వారా అది వాస్తవమో అవాస్తవమో అనేది తెలిసిపోతుంది. దానిని ఇతరులకు మీరు పంపించకుండా ఉండటం ద్వారా నకిలీ వార్తలను నివారించవచ్చు.
 
-Here we have compiled a list of common myths and fake news about COVID-19. We have also linked the source of the article which proves it.
+COVID-19 గురించి కొన్ని అపోహలు మరియు నకిలీ వార్తలను ఈ క్రింద తెలియజేస్తున్నాము. మీకు పూర్తి అవ్వడానికి మాత్రమే వాటిని వివరిస్తున్నాము.
 
 {% hint style="info" %}
-Work in Progress, in the meantime refer : [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)
+పని పురోగతిలో ఉంది, ఈ సమయంలో చూడండి : [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)
 {% endhint %}
 
-## Does Drinking water and keeping your throat moist kills COVID-19 ?
+**నీరు త్రాగటం మరియు మీ గొంతు తేమగా ఉంచడం COVID-19 ను చంపుతుందా?**
 
-**No**, There has been messages circulating on Social media stating that drinking \(preferably hot\) water and keeping your throat moist can help prevent an infection. The messages also cite different health organizations. This is a myth.
+**లేదు**, సోషల్ మీడియాలో ప్రసారం చేయబడిన ఇటువంటి సందేశాలు అనేకం ఉన్నాయి. నీరు త్రాగటం మరియు మీ గొంతును తేమగా ఉంచడం సంక్రమణను నివారించడంలో సహాయపడుతుంది.
 
 {% hint style="warning" %}
-There \_\*\*\_is no real evidence suggesting that drinking \(hot or cold\) water can help prevent a Corona Virus Infection.
+కరోనా వైరస్ సంక్రమణను నివారించడానికి వేడి లేదా చల్లటి నీరు త్రాగడం వల్ల ఎటువంటి ఉపయోగం లేదు. ఇది ఒక ఫేక్ వార్త మాత్రమే.
 {% endhint %}
 
-Source: [https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus](https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus)
+సోర్స్: [https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus](https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus)
 
-## Does COVID-19 spread thorough Air ?
+**COVID-19 అనేది గాలి ద్వారా వ్యాపిస్తుందా?**
 
-**No,** COVID-19 is not airborne, meaning it does not spread through Air. It spreads through contact with droplets containing the virus from the nose and mouths of people who are infected.
+**లేదు,** COVID-19 గాలిలో లేదు. అంటే అది గాలి ద్వారా వ్యాపించదు. ఇది సోకిన వ్యక్తుల ముక్కు మరియు నోటి నుండి వైరస్ కలిగిన బిందువులతో సంపర్కం ద్వారా వ్యాపిస్తుంది.
 
 {% hint style="info" %}
-Even though the virus is not airborne there is still considerable risk as the virus is highly contagious. Follow the instructions given below to take necessary precautions.
+వైరస్ గాలిలో లేనప్పటికీ, వైరస్ అధిక అంటువ్యాధి ఉన్నందున ఇంకా గణనీయమైన ప్రమాదం ఉంది. అవసరమైన జాగ్రత్తలు తీసుకోవడానికి క్రింద ఇచ్చిన సూచనలను అనుసరించండి.
 {% endhint %}
 
 {% page-ref page="precautions.md" %}

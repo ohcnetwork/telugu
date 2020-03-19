@@ -1,73 +1,75 @@
 ---
-description: Frequently Asked Questions about COVID-19
+description: COVID-19 పై తరచుగా అడిగే ప్రశ్నలు
 ---
 
-# FAQ
+# తరచుగా అడిగే ప్రశ్నలు
 
-## What is a Corona Virus?
+**కరోనా వైరస్ అంటే ఏమిటి?**
 
-Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome \(MERS\) and Severe Acute Respiratory Syndrome \(SARS\). The most recently discovered coronavirus causes coronavirus disease COVID-19.
+కరోనావైరస్ అనేది వైరస్ల యొక్క పెద్ద కుటుంబం. ఇవి జంతువులలో లేదా మానవులలో అనారోగ్యానికి కారణమవుతాయి. మానవులలో అనేక కరోనా వైరస్లు శ్వాసకోశ ఇన్ఫెక్షన్లు రావడానికి కారణమవుతాయి.
 
-## What is COVID-19?
+**COVID-19 అంటే ఏమిటి?**
 
-COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.
+COVID-19 అనేది ఇటీవల కనుగొన్న కరోనావైరస్ వల్ల కలిగే అంటు వ్యాధి. చైనాలోని వుహాన్‌ నుంచి దీని వ్యాప్తి ప్రారంభమైంది. 2019 డిసెంబర్ లో ఈ వ్యాధి ఉన్నట్లు గుర్తించారు.  
 
-## What are the symptoms of COVID-19 ?
 
-The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually. Some people become infected but don’t develop any symptoms and don't feel unwell. Most people \(about 80%\) recover from the disease without needing special treatment. Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention.
+**COVID-19 యొక్క లక్షణాలు ఏమిటి?**
 
-## How does COVID-19 spread ?
+COVID-19 యొక్క సాధారణ లక్షణాలు జ్వరం, అలసట మరియు పొడి దగ్గు. కొందరు రోగులకు నొప్పులు, నాసికా రద్దీ, ముక్కు కారటం, గొంతు నొప్పి లేదా విరేచనాలు ఉండవచ్చు. ఈ లక్షణాలు సాధారణంగా తేలికపాటివి. ఇవి ఒక్కసారిగా కాకుండా ఒక్కొక్కటే నిదానంగా ప్రారంభమవుతాయి. COVID-19 తీవ్ర అనారోగ్యానికి గురిచేసి శ్వాస తీసుకోవడంలో ఇబ్బందిని కలిగిస్తుంది. ముసలివాళ్లు, మరియు అధిక రక్తపోటు, గుండె సమస్యలు లేదా మధుమేహం వంటి వైద్య సమస్యలతో అనారోగ్యంగా ఉన్నవారికి ఈ వైరస్ సోకే ప్రమాదం ఎక్కువగా ఉంటుంది.  
 
-People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter \(3 feet\) away from a person who is sick.
 
-> WHO is assessing ongoing research on the ways COVID-19 is spread and will continue to share updated findings.
+## **COVID-19 ఎలా వ్యాపిస్తుంది?**
 
-## What can i do to protect myself and prevent the spread of disease ?
+వైరస్ ఉన్నవారి నుండి COVID-19 ఇతరులకు వ్యాపిస్తుంది. ముక్కు లేదా నోటి నుండి చిన్న బిందువుల ద్వారా ఒక వ్యక్తి నుంచి మరొక వ్యక్తికి COVID-19 అనేది వ్యాపిస్తుంది. దగ్గు లేదా శ్వాస తీసుకోవడంలో ఇబ్బందిగా ఉన్న వ్యక్తి నుంచి ఇది ఎక్కువగా వ్యాప్తి చెందుతుంది. ఈ బిందువులు వస్తువులు లేదా పరిసరాల ద్వారా కూడా వ్యాపిస్తాయి.  ఇతర వ్యక్తులు ఆ వస్తువులను తాకడం ద్వారా COVID-19 అనేది వ్యాపిస్తుంది.
 
-> You can reduce your chances of being infected or spreading COVID-19 by taking some simple precautions:
+> COVID-19 వ్యాప్తి చెందుతున్న మార్గాలపై కొనసాగుతున్న పరిశోధనలను WHO అంచనా వేస్తోంది మరియు నవీకరించబడిన ఫలితాలను పంచుకోవడం కొనసాగుతుంది.
 
-* Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.
-* Maintain at least 1 metre \(3 feet\) distance between yourself and anyone who is coughing or sneezing.
-* Avoid touching eyes, nose and mouth.
-* Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately.
-* Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority.
-* Keep up to date on the latest COVID-19 hotspots \(cities or local areas where COVID-19 is spreading widely\). If possible, avoid traveling to places  – especially if you are an older person or have diabetes, heart or lung disease.
+## **కరోనా నుంచి నన్ను నేను ఎలా రక్షించుకోవాలి?**
 
-## How likely am I to catch COVID-19 ?
+> కొన్ని సాధారణ జాగ్రత్తలు తీసుకోవడం ద్వారా మీరు COVID-19 బారిన పడే అవకాశాలను తగ్గించవచ్చు:
 
-The risk depends on where you are - and more specifically, whether there is a COVID-19 outbreak unfolding there.
+* మీ చేతులను ఆల్కహాల్ బేస్డ్ హ్యాండ్ రబ్ తో క్రమం తప్పకుండా శుభ్రంగా శుభ్రపరచండి లేదా సబ్బు మరియు నీటితో కడగాలి.
+* మీకు మరియు దగ్గు లేదా తుమ్ము ఉన్నవారికి మధ్య కనీసం 1 మీటర్ \(3 అడుగులు\) దూరం నిర్వహించండి.
+* కళ్ళు, ముక్కు మరియు నోరు తాకడం మానుకోండి.
+* మీరు మరియు మీ చుట్టుపక్కల ప్రజలు మంచి శ్వాసకోశ పరిశుభ్రతను అనుసరిస్తున్నారని నిర్ధారించుకోండి. మీరు దగ్గు లేదా తుమ్ము ఉన్నప్పుడు మీ వంగిన మోచేయి లేదా కణజాలంతో మీ నోరు మరియు ముక్కును కప్పడం దీని అర్థం. అప్పుడు ఉపయోగించిన కణజాలాన్ని వెంటనే పారవేయండి.
+* మీకు అనారోగ్యం అనిపిస్తే ఇంట్లో ఉండండి. మీకు జ్వరం, దగ్గు మరియు శ్వాస తీసుకోవడంలో ఇబ్బంది ఉంటే, వైద్య సహాయం తీసుకోండి మరియు ముందుగానే కాల్ చేయండి. మీ స్థానిక ఆరోగ్య అధికారం యొక్క సూచనలను అనుసరించండి.
+* తాజా COVID-19 హాట్‌స్పాట్‌లలో \(COVID-19 విస్తృతంగా వ్యాప్తి చెందుతున్న నగరాలు లేదా స్థానిక ప్రాంతాలు\) తాజాగా ఉండండి. వీలైతే, ప్రదేశాలకు వెళ్లడం మానుకోండి - ముఖ్యంగా మీరు పెద్దవారైతే లేదా డయాబెటిస్, గుండె లేదా lung పిరితిత్తుల వ్యాధి ఉంటే.
 
-For most people in most locations the risk of catching COVID-19 is still low. However, there are now places around the world \(cities or areas\) where the disease is spreading. For people living in, or visiting, these areas the risk of catching COVID-19 is higher. Governments and health authorities are taking vigorous action every time a new case of COVID-19 is identified. Be sure to comply with any local restrictions on travel, movement or large gatherings. Cooperating with disease control efforts will reduce your risk of catching or spreading COVID-19.
+## **నాకు COVID-19  వ్యాపించే అవకాశం ఎంత ఉంది?**
 
-COVID-19 outbreaks can be contained and transmission stopped, as has been shown in China and some other countries. Unfortunately, new outbreaks can emerge rapidly. It’s important to be aware of the situation where you are or intend to go. WHO publishes daily updates on the COVID-19 situation worldwide.
+ప్రమాదం మీరు ఎక్కడ ఉన్నారనే దానిపై ఆధారపడి ఉంటుంది. అదే COVID-19 వ్యాప్తి చెందుతుందా లేదా అనేది నిర్ణయిస్తుంది.
 
-## Who is at risk of developing severe illness ?
+చాలా ప్రదేశాలలో చాలా మందికి COVID-19 వ్యాపించే ప్రమాదం తక్కువగా ఉంది. అయితే, ఇప్పుడు ప్రపంచవ్యాప్తంగా అనేక నగరాలు లేదా ప్రాంతాలలో ఈ వ్యాధి వ్యాప్తి చెందుతున్న ప్రదేశాలు ఉన్నాయి. ఆ ప్రాంతాలలో నివసించే వారికి COVID-19 సోకే ప్రమాదం ఎక్కువ. COVID-19 యొక్క కొత్త కేసును గుర్తించిన ప్రతిసారీ ప్రభుత్వాలు మరియు ఆరోగ్య అధికారులు తీవ్రమైన చర్యలు తీసుకుంటున్నారు. ప్రయాణం చేయడం, పెద్ద సమావేశాలకు హాజరుకాకపోవడం మంచిది. వ్యాధి నియంత్రణకు సహకరించడం వల్ల COVID-19 వ్యాపించకుండా  చూడొచ్చు.
 
-While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions \(such as high blood pressure, heart disease, lung disease, cancer or diabetes\) appear to develop serious illness more often than others.
+చైనా మరియు మరికొన్ని దేశాలలో చూపిన విధంగా COVID-19 వ్యాప్తి వేగంగా జరుగుతోంది. దురదృష్టవశాత్తు కొత్తవారికి ఈ వైరస్ వేగంగా వ్యాపిస్తోంది. ప్రపంచవ్యాప్తంగా COVID-19 పరిస్థితిపై WHO రోజువారీ సమాచారాన్ని అందిస్తూనే ఉంది
 
-## Are there any medicines or therapies that can prevent or cure COVID-19 ?
+## **తీవ్రమైన అనారోగ్యం వచ్చే ప్రమాదం ఎవరికి ఉంది?**
 
-While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. WHO will continue to provide updated information as soon as clinical findings are available.
+COVID-19 ప్రజలను ఎలా ప్రభావితం చేస్తుందనే దాని గురించి మనం ఇంకా తెలుసుకోవాల్సి ఉంది. అయితే ఇది వృద్ధులు మరియు అనారోగ్యంగా ఉన్న వ్యక్తులు అంటే అధిక రక్తపోటు, గుండె జబ్బులు, ఊపిరితిత్తుల వ్యాధి, క్యాన్సర్ లేదా మధుమేహం వంటివి ఉన్నవారికి ఎక్కువగా వ్యాపించే అవకాశం ఉంది. వీళ్లు వైరస్ సోకిన తర్వాత తీవ్రమైన అనారోగ్యానికి గురవుతారు.
 
-## Should I wear a mask to protect myself ?
+## **COVID-19 ను నివారించే మందులు లేదా చికిత్సలు ఉన్నాయా?**
 
-Only wear a mask if you are ill with COVID-19 symptoms \(especially coughing\) or looking after someone who may have COVID-19. Disposable face mask can only be used once. If you are not ill or looking after someone who is ill then you are wasting a mask. There is a world-wide shortage of masks, so WHO urges people to use masks wisely.
+కొన్ని మందులు COVID-19 యొక్క లక్షణాలను తగ్గించగలవు. ఇంకా వాటి నుంచి ఉపశమనం కలిగిస్తాయి. ప్రస్తుతం ఏ మందులూ ఈ వ్యాధిని నివారించగలవని ఎటువంటి ఆధారాలు లేవు. COVID-19 నివారణకు యాంటీబయాటిక్స్‌తో సహా ఏ మందులతోనైనా నివారించవచ్చని  WHO ఎటువంటి సిఫారసు చేయలేదు. అయితే అనేక క్లినిక్ లల్లో పరీక్షలు నిర్వహించి మామూలు మందులనే వాడుతున్నారు. క్లినికల్ పరిశోధనలు అందుబాటులోకి వచ్చిన వెంటనే WHO ఎప్పటికప్పుడు తాజా సమాచారాన్ని అందిస్తూనే ఉంటుంది.
 
-WHO advises rational use of medical masks to avoid unnecessary wastage of precious resources and mis-use of masks \(see Advice on the use of masks\).
+## **నన్ను నేను రక్షించుకోవడానికి మాస్క్ ధరించాలా?**
 
-The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue and maintain a distance of at least 1 meter \(3 feet\) from people who are coughing or sneezing. See basic protective measures against the new coronavirus for more information.
+మీరు COVID-19 లక్షణాలతో అనారోగ్యంగా ఉంటే లేదా COVID-19 ఉన్నవారిని చూసుకుంటూ ఉన్నట్లయితే మాత్రమే ముసుగును ధరించండి. ఫేస్ మాస్క్ అనేది ఒకసారి మాత్రమే ఉపయోగించబడుతుంది. మీరు అనారోగ్యంతో లేకుంటే లేదా ఎవరినీ చూసుకోకుండా ఉన్నట్లైతే ముసుగును ధరించాల్సిన అవసరం లేదు. ప్రపంచవ్యాప్తంగా ముసుగుల కొరత ఉంది. కాబట్టి ముసుగులను తెలివిగా ఉపయోగించాలని WHO ప్రజలను కోరుతోంది.
 
-## Is there anything I should not do ?
+విలువైన మాస్క్ లను అనవసరంగా వృధా చేయకుండా, మాస్క్ లను ఎక్కువమంది ఉపయోగించడాన్ని నివారించడానికి వైద్యులు చెప్పిన వారే ముసుగులను వేసుకోవాలని WHO సలహా ఇచ్చింది.
 
-The following measures **ARE NOT effective** against COVID-19 and can be harmful:
+COVID-19 నుండి మిమ్మల్ని మరియు ఇతరులను రక్షించుకోవడానికి అత్యంత ప్రభావవంతమైన మార్గాలు ఏంటంటే మీ చేతులను తరచుగా శుభ్రపరచడమే. దగ్గు లేదా తుమ్ము ఉన్న వ్యక్తుల నుండి కనీసం 1 మీటర్ \(3 అడుగులు\) దూరం ఉండటం మంచిది.
 
-* Smoking
-* Wearing multiple masks
-* Taking antibiotics
+## **నేను చేయకూడనిది ఏదైనా ఉందా?**
 
-In any case, if you have fever, cough and difficulty breathing seek medical care early to reduce the risk of developing a more severe infection and be sure to share your recent travel history with your health care provider.
+ఈ క్రింది చర్యలు COVID-19కి వ్యతిరేకంగా లేవు. **ఇవి హానికరం** మాత్రమే.
 
-## Read more about it at:
+* ఎక్కువ మాస్కులు ధరించడం
+* ధూమపానం చేయడం
+* యాంటీబయాటిక్స్ తీసుకోవడం
+
+ఏదేమైనా మీకు జ్వరం, దగ్గు మరియు శ్వాస తీసుకోవడంలో ఇబ్బంది ఉంటే మరింత తీవ్రమైన ఇన్ఫెక్షన్ వచ్చే ప్రమాదాన్ని తగ్గించడానికి ముందుగానే వైద్యం చేసుకోండి. మీరు ఈ మధ్య కాలంలో ప్రయాణం చేసిన విషయాల గురించి వైద్యులకు తెలియజేయండి.
+
+## **దీని గురించి మరిన్ని విషయాలు తెలుసుకోండి**:
 
 * [https://www.who.int/news-room/q-a-detail/q-a-coronaviruses](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
 * [https://www.cdc.gov/coronavirus/2019-ncov/faq.html](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)

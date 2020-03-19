@@ -6,7 +6,7 @@
 * [వృద్దులు లేదా అనారోగ్య సమస్యలు ఉన్నవారు](old-and-people-with-medical-issues.md)
 * [కేరళ ప్రభుత్వం చేపడుతున్న ఆరోగ్య సలహా మార్గదర్శకాలు](health-advisories-by-kerala-government.md)
 * [అపోహలు మరియు నకిలీ వార్తలు](myths-and-fake-news.md)
-* [FAQ](faq.md)
+* [తరచుగా అడిగే ప్రశ్నలు](faq.md)
 * [Contribute](contribute.md)
 
 ## Actions to take when <a id="action"></a>
