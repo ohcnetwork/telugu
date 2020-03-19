@@ -1,7 +1,5 @@
 ---
-description: >-
-  A verified crowd-sourced guide to staying safe in Coronavirus disease
-  (COVID-19) outbreak.
+description: 'కరోనావైరస్ (COVID-19) నుంచి సురక్షితంగా ఉండటానికి సలహాలు, సూచనలు.'
 ---
 
 # కరోనా సేఫ్
@@ -18,7 +16,7 @@ description: >-
 ఈ వైరస్ ప్రపంచవ్యాప్తంగా 100,000 కన్నా ఎక్కువ మందిని ప్రభావితం చేసింది. 6000 మందికి పైగా మరణాలకు కారణమైంది. ఈ వైరస్ కు WHO గ్లోబల్ స్థాయిలో వెరీ హై రిస్క్ వైరస్ గా ప్రకటించింది.
 
 {% hint style="danger" %}
-This guide is still a Work In Progress. Until some sections are complete we will be providing the official links for reference. You have to follow those instructions until the guide gets updated.
+ఈ గైడ్ ఇప్పటికీ ప్రోగ్రెస్‌లో ఉంది. కొన్ని విభాగాలు పూర్తయ్యే వరకు మేము సూచన కోసం అధికారిక లింక్‌లను అందిస్తాము. గైడ్ నవీకరించబడే వరకు మీరు ఆ సూచనలను పాటించాలి.
 {% endhint %}
 
 ఈ సూచనల ముఖ్య ఉద్దేశం ఏంటి?
