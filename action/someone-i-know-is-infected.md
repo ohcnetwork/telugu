@@ -1,30 +1,30 @@
-# Someone I know is Infected
+# నాకు తెలిసిన వారికి ఎవరికైనా సోకినట్లైతే..
 
-Household members, intimate partners, and caregivers in a nonhealthcare setting may have close contact with a person with symptomatic, laboratory-confirmed COVID-19 or a person under investigation. Close contacts should monitor their health; they should call their healthcare provider right away if they develop symptoms suggestive of COVID-19 \(e.g., fever, cough, shortness of breath\)
+అనారోగ్య సంరక్షణ నేపధ్యంలో గృహ సభ్యులు, సన్నిహిత భాగస్వాములు మరియు సంరక్షకులు COVID-19 లేదా దర్యాప్తులో ఉన్న వ్యక్తితో సన్నిహిత సంబంధాన్ని కలిగి ఉండవచ్చు. సన్నిహిత వ్యక్తులు వారి ఆరోగ్యాన్ని పర్యవేక్షించాలి. COVID-19 \(ఉదా., జ్వరం, దగ్గు, ఊపిరి పీల్చడంలో ఇబ్బంది\) సూచించే లక్షణాలు వచ్చినట్లైతే అలాంటి వారు వెంటనే డాక్టర్ కి తెలియజేయాలి.
 
-## Close contacts should also follow these recommendations:
+## **సన్నిహితంగా ఉండే వ్యక్తులు కూడా ఈ సిఫార్సులను అనుసరించాలి**:
 
-* Make sure that you understand and can help the patient follow their healthcare provider’s instructions for medication\(s\) and care. You should help the patient with basic needs in the home and provide support for getting groceries, prescriptions, and other personal needs.
-* Monitor the patient’s symptoms. If the patient is getting sicker, call his or her healthcare provider and tell them that the patient has laboratory-confirmed COVID-19. This will help the healthcare provider’s office take steps to keep other people in the office or waiting room from getting infected. Ask the healthcare provider to call the local or state health department for additional guidance. If the patient has a medical emergency and you need to call 102, notify the dispatch personnel that the patient has, or is being evaluated for COVID-19.
-* Household members should stay in another room or be separated from the patient as much as possible. Household members should use a separate bedroom and bathroom, if available.
-* Prohibit visitors who do not have an essential need to be in the home.
-* Household members should care for any pets in the home. Do not handle pets or other animals while sick. For more information, see COVID-19 and Animals.
-* Make sure that shared spaces in the home have good air flow, such as by an air conditioner or an opened window, weather permitting.
-* Perform hand hygiene frequently. Wash your hands often with soap and water for at least 20 seconds or use an alcohol-based hand sanitizer that contains 60 to 95% alcohol, covering all surfaces of your hands and rubbing them together until they feel dry. Soap and water should be used preferentially if hands are visibly dirty.
-* Avoid touching your eyes, nose, and mouth with unwashed hands.
-* The patient should wear a facemask when you are around other people. If the patient is not able to wear a facemask \(for example, because it causes trouble breathing\), you, as the caregiver, should wear a mask when you are in the same room as the patient.
-* Wear a disposable facemask and gloves when you touch or have contact with the patient’s blood, stool, or body fluids, such as saliva, sputum, nasal mucus, vomit, urine.
-  * Throw out disposable facemasks and gloves after using them. Do not reuse.
-  * When removing personal protective equipment, first remove and dispose of gloves. Then, immediately clean your hands with soap and water or alcohol-based hand sanitizer. Next, remove and dispose of facemask, and immediately clean your hands again with soap and water or alcohol-based hand sanitizer.
-* Avoid sharing household items with the patient. You should not share dishes, drinking glasses, cups, eating utensils, towels, bedding, or other items. After the patient uses these items, you should wash them thoroughly \(see below “Wash laundry thoroughly”\).
-* Clean all “high-touch” surfaces, such as counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, and bedside tables, every day. Also, clean any surfaces that may have blood, stool, or body fluids on them.
-  * Use a household cleaning spray or wipe, according to the label instructions. Labels contain instructions for safe and effective use of the cleaning product including precautions you should take when applying the product, such as wearing gloves and making sure you have good ventilation during use of the product.
-* Wash laundry thoroughly.
-  * Immediately remove and wash clothes or bedding that have blood, stool, or body fluids on them.
-  * Wear disposable gloves while handling soiled items and keep soiled items away from your body. Clean your hands \(with soap and water or an alcohol-based hand sanitizer\) immediately after removing your gloves.
-  * Read and follow directions on labels of laundry or clothing items and detergent. In general, using a normal laundry detergent according to washing machine instructions and dry thoroughly using the warmest temperatures recommended on the clothing label.
-* Place all used disposable gloves, facemasks, and other contaminated items in a lined container before disposing of them with other household waste. Clean your hands \(with soap and water or an alcohol-based hand sanitizer\) immediately after handling these items. Soap and water should be used preferentially if hands are visibly dirty.
-* Discuss any additional questions with your state or local health department or healthcare provider. Check available hours when contacting your local health department.
+* మీరు అర్థం చేసుకున్నారని నిర్ధారించుకోండి మరియు రోగి వారి ఆరోగ్య సంరక్షణ ప్రదాత యొక్క మందులు \(లు\) మరియు సంరక్షణ కోసం సూచనలను పాటించడంలో సహాయపడతారు. మీరు ఇంటిలో ప్రాథమిక అవసరాలతో రోగికి సహాయం చేయాలి మరియు కిరాణా, ప్రిస్క్రిప్షన్లు మరియు ఇతర వ్యక్తిగత అవసరాలను పొందడానికి సహాయాన్ని అందించాలి.
+* రోగి యొక్క లక్షణాలను పర్యవేక్షించండి. రోగి అనారోగ్యంతో ఉంటే, అతని లేదా ఆమె ఆరోగ్య సంరక్షణ ప్రదాతకు కాల్ చేసి, రోగికి ప్రయోగశాల ధృవీకరించిన COVID-19 ఉందని చెప్పండి. ఆరోగ్య సంరక్షణ ప్రదాత కార్యాలయం ఇతర వ్యక్తులను కార్యాలయంలో లేదా వెయిటింగ్ రూమ్‌లో సోకకుండా ఉంచడానికి చర్యలు తీసుకోవడానికి ఇది సహాయపడుతుంది. అదనపు మార్గదర్శకత్వం కోసం స్థానిక లేదా రాష్ట్ర ఆరోగ్య విభాగానికి కాల్ చేయమని ఆరోగ్య సంరక్షణ ప్రదాతని అడగండి. రోగికి మెడికల్ ఎమర్జెన్సీ ఉంటే మరియు మీరు 102 కి కాల్ చేయవలసి వస్తే, రోగి ఉన్న డిస్పాచ్ సిబ్బందికి తెలియజేయండి లేదా COVID-19 కోసం మదింపు చేయబడుతోంది.
+* గృహ సభ్యులు మరొక గదిలో ఉండాలి లేదా వీలైనంతవరకు రోగి నుండి వేరుచేయబడాలి. గృహ సభ్యులు అందుబాటులో ఉంటే ప్రత్యేక బెడ్ రూమ్ మరియు బాత్రూమ్ ఉపయోగించాలి.
+* ఇంటిలో ఉండటానికి అవసరమైన అవసరం లేని సందర్శకులను నిషేధించండి.
+* ఇంటి సభ్యులు ఇంట్లో ఏదైనా పెంపుడు జంతువులను చూసుకోవాలి. అనారోగ్యంతో ఉన్నప్పుడు పెంపుడు జంతువులను లేదా ఇతర జంతువులను నిర్వహించవద్దు. మరింత సమాచారం కోసం, COVID-19 మరియు జంతువులను చూడండి.
+* ఇంట్లో భాగస్వామ్య ప్రదేశాలు ఎయిర్ కండీషనర్ లేదా తెరిచిన విండో, వాతావరణం అనుమతించడం వంటి మంచి గాలి ప్రవాహాన్ని కలిగి ఉన్నాయని నిర్ధారించుకోండి.
+* చేతి పరిశుభ్రత తరచుగా చేయండి. మీ చేతులను కనీసం 20 సెకన్లపాటు సబ్బు మరియు నీటితో కడగాలి లేదా 60 నుండి 95% ఆల్కహాల్ కలిగి ఉన్న ఆల్కహాల్ ఆధారిత హ్యాండ్ శానిటైజర్‌ను వాడండి, మీ చేతుల యొక్క అన్ని ఉపరితలాలను కప్పి, అవి పొడిగా అనిపించే వరకు వాటిని రుద్దండి. చేతులు కనిపించే మురికిగా ఉంటే సబ్బు మరియు నీరు ప్రాధాన్యంగా వాడాలి.
+* కడుక్కోని చేతులతో మీ కళ్ళు, ముక్కు మరియు నోటిని తాకడం మానుకోండి.
+* మీరు ఇతర వ్యక్తుల చుట్టూ ఉన్నప్పుడు రోగి ఫేస్‌మాస్క్ ధరించాలి. రోగి ఫేస్‌మాస్క్ ధరించలేకపోతే \(ఉదాహరణకు, ఇది శ్వాస తీసుకోవడంలో ఇబ్బంది కలిగిస్తుంది\), మీరు రోగి వలె ఒకే గదిలో ఉన్నప్పుడు సంరక్షకునిగా మీరు ముసుగు ధరించాలి.
+* రోగి యొక్క రక్తం, మలం లేదా శరీర ద్రవాలు, లాలాజలం, కఫం, నాసికా శ్లేష్మం, వాంతులు, మూత్రం వంటి వాటిని తాకినప్పుడు లేదా సంప్రదించినప్పుడు పునర్వినియోగపరచలేని ఫేస్‌మాస్క్ మరియు చేతి తొడుగులు ధరించండి.
+  * పునర్వినియోగపరచలేని ఫేస్‌మాస్క్‌లు మరియు చేతి తొడుగులు ఉపయోగించిన తర్వాత వాటిని విసిరేయండి. తిరిగి ఉపయోగించవద్దు.
+  * వ్యక్తిగత రక్షణ పరికరాలను తొలగించేటప్పుడు, మొదట చేతి తొడుగులు తొలగించి పారవేయండి. అప్పుడు, వెంటనే మీ చేతులను సబ్బు మరియు నీరు లేదా ఆల్కహాల్ ఆధారిత హ్యాండ్ శానిటైజర్‌తో శుభ్రం చేయండి. తరువాత, ఫేస్‌మాస్క్‌ను తీసివేసి, వెంటనే మీ చేతులను సబ్బు మరియు నీరు లేదా ఆల్కహాల్ ఆధారిత హ్యాండ్ శానిటైజర్‌తో శుభ్రం చేయండి.
+* రోగితో ఇంటి వస్తువులను పంచుకోవడం మానుకోండి. మీరు వంటకాలు, తాగే అద్దాలు, కప్పులు, తినే పాత్రలు, తువ్వాళ్లు, పరుపులు లేదా ఇతర వస్తువులను పంచుకోకూడదు. రోగి ఈ వస్తువులను ఉపయోగించిన తర్వాత, మీరు వాటిని బాగా కడగాలి \(క్రింద “లాండ్రీని బాగా కడగండి” చూడండి\).
+* కౌంటర్లు, టాబ్లెట్‌లు, డోర్క్‌నోబ్‌లు, బాత్రూమ్ మ్యాచ్‌లు, మరుగుదొడ్లు, ఫోన్లు, కీబోర్డులు, టాబ్లెట్‌లు మరియు పడక పట్టికలు వంటి అన్ని “హై-టచ్” ఉపరితలాలను ప్రతి రోజు శుభ్రం చేయండి. అలాగే, వాటిపై రక్తం, మలం లేదా శరీర ద్రవాలు ఉన్న ఏదైనా ఉపరితలాలను శుభ్రపరచండి.
+  * లేబుల్ సూచనల ప్రకారం ఇంటి శుభ్రపరిచే స్ప్రేని లేదా తుడవడం ఉపయోగించండి. చేతి తొడుగులు ధరించడం మరియు ఉత్పత్తిని ఉపయోగించినప్పుడు మీకు మంచి వెంటిలేషన్ ఉందని నిర్ధారించుకోవడం వంటి ఉత్పత్తిని వర్తించేటప్పుడు మీరు తీసుకోవలసిన జాగ్రత్తలతో సహా శుభ్రపరిచే ఉత్పత్తిని సురక్షితంగా మరియు సమర్థవంతంగా ఉపయోగించటానికి లేబుల్స్ సూచనలను కలిగి ఉంటాయి.
+* లాండ్రీని బాగా కడగాలి.
+  * రక్తం, మలం లేదా శరీర ద్రవాలు ఉన్న బట్టలు లేదా పరుపులను వెంటనే తొలగించి కడగాలి.
+  * సాయిల్డ్ వస్తువులను నిర్వహించేటప్పుడు పునర్వినియోగపరచలేని చేతి తొడుగులు ధరించండి మరియు సాయిల్డ్ వస్తువులను మీ శరీరానికి దూరంగా ఉంచండి. మీ చేతి తొడుగులు తొలగించిన వెంటనే మీ చేతులను \(సబ్బు మరియు నీరు లేదా ఆల్కహాల్ ఆధారిత హ్యాండ్ శానిటైజర్‌తో\) శుభ్రం చేయండి.
+  * లాండ్రీ లేదా బట్టల వస్తువులు మరియు డిటర్జెంట్ యొక్క లేబుళ్ళపై సూచనలను చదవండి మరియు అనుసరించండి. సాధారణంగా, వాషింగ్ మెషీన్ సూచనల ప్రకారం సాధారణ లాండ్రీ డిటర్జెంట్‌ను ఉపయోగించడం మరియు బట్టల లేబుల్‌పై సిఫార్సు చేసిన వెచ్చని ఉష్ణోగ్రతలను ఉపయోగించి పూర్తిగా ఆరబెట్టడం.
+* ఉపయోగించిన అన్ని పునర్వినియోగపరచలేని చేతి తొడుగులు, ఫేస్‌మాస్క్‌లు మరియు ఇతర కలుషితమైన వస్తువులను ఇతర గృహ వ్యర్థాలతో పారవేసే ముందు వాటిని కప్పుతారు. ఈ వస్తువులను నిర్వహించిన వెంటనే మీ చేతులను \(సబ్బు మరియు నీరు లేదా ఆల్కహాల్ ఆధారిత హ్యాండ్ శానిటైజర్‌తో\) శుభ్రం చేయండి. చేతులు కనిపించే మురికిగా ఉంటే సబ్బు మరియు నీరు ప్రాధాన్యంగా వాడాలి.
+* మీ రాష్ట్ర లేదా స్థానిక ఆరోగ్య విభాగం లేదా ఆరోగ్య సంరక్షణ ప్రదాతతో ఏదైనా అదనపు ప్రశ్నలను చర్చించండి. మీ స్థానిక ఆరోగ్య విభాగాన్ని సంప్రదించినప్పుడు అందుబాటులో ఉన్న గంటలను తనిఖీ చేయండి.
 
-Source : [https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html\#precautions](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions)
+సోర్స్ : [https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html\#precautions](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions)
 

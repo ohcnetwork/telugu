@@ -1,68 +1,68 @@
 ---
 description: >-
-  If you are sick with COVID-19 or suspect you are infected with the virus that
-  causes COVID-19, follow the steps below to help prevent the disease from
-  spreading to people in your home and community.
+  మీరు COVID-19 తో అనారోగ్యంతో ఉంటే లేదా COVID-19 కి కారణమయ్యే వైరస్ బారిన
+  పడినట్లు అనుమానించినట్లయితే, మీ ఇల్లు మరియు సమాజంలోని ప్రజలకు ఈ వ్యాధి
+  వ్యాప్తి చెందకుండా నిరోధించడానికి క్రింది దశలను అనుసరిం.
 ---
 
-# I am Infected
+# నాకు సోకింది
 
-### Stay home except to get medical care
+**వైద్యం పొందుతూ ఇంట్లోనే ఉండండి**
 
-* **Stay home:** People who are mildly ill with COVID-19 are able to isolate at home during their illness. You should restrict activities outside your home, except for getting medical care.
-* **Avoid public areas:** Do not go to work, school, or public areas.
-* **Avoid public transportation:** Avoid using public transportation, ride-sharing, or taxis.
+* **ఇంట్లోనే ఉండండి:** COVID-19 తో స్వల్పంగా అనారోగ్యంతో బాధపడుతున్న వ్యక్తులు అనారోగ్య సమయంలో ఇంట్లో ఒంటరిగా ఉండగలుగుతారు. వైద్య సంరక్షణ పొందడం మినహా మీరు మీ ఇంటి వెలుపల పనులు చేయకుండా ఉండాలి.
+* **బయట ప్రదేశాలకు వెళ్లకుండా ఉండండి:** పని, పాఠశాల లేదా బహిరంగ ప్రదేశాలకు వెళ్లవద్దు.
+* **ప్రజా రవాణాను మానుకోండి:** ప్రజా రవాణా, రైడ్-షేరింగ్ లేదా టాక్సీలను ఉపయోగించడం మానుకోండి.
 
-### Separate yourself from other people and animals in your home
+### **మీ ఇంటిలోని ఇతర వ్యక్తులు మరియు జంతువులకు దూరంగా ఉండండి**
 
-* **Stay away from others:** As much as possible, you should stay in a specific room and away from other people in your home. Also, you should use a separate bathroom, if available.
-* **Limit contact with pets & animals:** You should restrict contact with pets and other animals while you are sick with COVID-19, just like you would around other people. Although there have not been reports of pets or other animals becoming sick with COVID-19, it is still recommended that people sick with COVID-19 limit contact with animals until more information is known about the virus.
-* When possible, have another member of your household care for your animals while you are sick. If you are sick with COVID-19, avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food. If you must care for your pet or be around animals while you are sick, wash your hands before and after you interact with pets and wear a facemask.
+* **ఇతరులకు దూరంగా ఉండండి:** సాధ్యమైనంతవరకు, మీరు ఒక నిర్దిష్ట గదిలో మరియు మీ ఇంటిలోని ఇతర వ్యక్తుల నుండి దూరంగా ఉండాలి. అలాగే, అందుబాటులో ఉంటే మీరు ప్రత్యేక బాత్రూమ్ ఉపయోగించాలి.
+* **జంతువులకు దూరంగా ఉండండి:** మీరు COVID-19 తో అనారోగ్యంతో ఉన్నప్పుడు పెంపుడు జంతువులు మరియు ఇతర జంతువులను దగ్గరకు రానీయకండి. COVID-19తో పెంపుడు జంతువులు లేదా ఇతర జంతువులు అనారోగ్యానికి గురైనట్లు నివేదికలు లేనప్పటికీ, COVID-19 తో బాధపడుతున్న వ్యక్తులు వైరస్ గురించి మరింత సమాచారం తెలిసే వరకు జంతువులకు దూరంగా ఉండాలని ఇప్పటికీ సిఫార్సు చేయబడింది. మీరు అనారోగ్యంతో ఉన్నప్పుడు మీ జంతువుల సంరక్షణ కోసం మరొక వ్యక్తిని కేటాయించండి.
+* మీరు COVID-19 తో అనారోగ్యంతో ఉంటే పెంపుడు జంతువును ముద్దు పెట్టుకోవడం లేదా నవ్వడం, ఆహారాన్ని పంచుకోవడం వంటివి చేయకండి. మీరు అనారోగ్యంతో ఉన్నప్పుడు జంతువుల చుట్టూ ఉంటే, మీరు పెంపుడు జంతువులతో సంభాషించడానికి ముందు ఆ తరువాత చేతులు కడుక్కోండి. ఫేస్ మాస్క్ పెట్టుకోండి.
 
-### Call ahead before visiting your doctor
+### **మీ వైద్యుడిని సందర్శించే ముందు కాల్ చేయండి**
 
-* If you have a medical appointment, call the healthcare provider and tell them that you have or may have COVID-19. This will help the healthcare provider’s office take steps to keep other people from getting infected or exposed.
+* మీకు మెడికల్ అపాయింట్‌మెంట్ ఉంటే, హెల్త్‌కేర్ ప్రొవైడర్‌కు కాల్ చేసి, మీకు COVID-19 ఉందని లేదా వైరస్ వచ్చి ఉండవచ్చని వారికి చెప్పండి. దానివల్ల ఆ డాక్టర్ తన కార్యాలయం దగ్గరకు ఇతర వ్యక్తులను రాకుండా చూసుకుంటాడు. దీంతో ఇతరులకు సోకకుండా జాగ్రత్త పడొచ్చు.
 
-### Wear a facemask if you are sick
+### **మీరు అనారోగ్యంతో ఉంటే ఫేస్‌మాస్క్ ధరించండి**
 
-* **If you are sick:** You should wear a facemask when you are around other people \(e.g., sharing a room or vehicle\) or pets and before you enter a healthcare provider’s office.
-* **If you are caring for others:** If the person who is sick is not able to wear a facemask \(for example, because it causes trouble breathing\), then people who live with the person who is sick should not stay in the same room with them, or they should wear a facemask if they enter a room with the person who is sick.
+* **మీరు అనారోగ్యంతో ఉంటే:** మీరు ఇతర వ్యక్తులతో ఉన్నప్పుడు \(ఉదా., గది లేదా వాహనాన్ని పంచుకోవడం\) లేదా పెంపుడు జంతువులతో ఉన్నప్పుడు, మీరు డాక్టర్ దగ్గరికి వెళ్లే ముందు ఫేస్‌మాస్క్ ధరించాలి.
+* **మీరు ఇతరులను చూసుకుంటే:** అనారోగ్యంతో ఉన్న వ్యక్తి ఫేస్‌మాస్క్ ధరించలేకపోతే \(ఉదాహరణకు, ఇది శ్వాస తీసుకోవడంలో ఇబ్బంది కలిగిస్తుంది\), అప్పుడు అనారోగ్యంతో ఉన్న వ్యక్తితో నివసించే వ్యక్తులు వారితో ఒకే గదిలో ఉండకూడదు. లేదా వారు అనారోగ్యంతో ఉన్న వ్యక్తితో గదిలోకి ప్రవేశిస్తే వారు ఫేస్ మాస్క్ తప్పకుండా ధరించాలి.
 
-### Cover your coughs and sneezes
+### **దగ్గు, తుమ్ములను కర్చీఫ్ తో కప్పండి**
 
-* **Cover:** Cover your mouth and nose with a tissue when you cough or sneeze.
-* **Dispose:** Throw used tissues in a lined trash can.
-* **Wash hands:** Immediately wash your hands with soap and water for at least 20 seconds or, if soap and water are not available, clean your hands with an alcohol-based hand sanitizer that contains at least 60% alcohol.
+* **కవర్:** మీకు దగ్గు లేదా తుమ్ములు వస్తున్నప్పుడు మీ నోరు మరియు ముక్కును కర్చీఫ్ తో కప్పండి.
+* **పారవేయండి:** ఉపయోగించిన కర్చీఫ్ లను చెత్త డబ్బాలో వేయండి.
+* **చేతులు కడుక్కోండి:** వెంటనే మీ చేతులను సబ్బు మరియు నీటితో కనీసం 20 సెకన్ల పాటు కడగాలి. లేదా, సబ్బు మరియు నీరు అందుబాటులో లేకపోతే, కనీసం 60% ఆల్కహాల్ కలిగి ఉన్న ఆల్కహాల్ ఆధారిత హ్యాండ్ శానిటైజర్‌తో మీ చేతులను శుభ్రం చేయండి.
 
-### Clean your hands often
+### **మీ చేతులను తరచుగా శుభ్రం చేయండి**
 
-* **Wash hands:** Wash your hands often with soap and water for at least 20 seconds, especially after blowing your nose, coughing, or sneezing; going to the bathroom; and before eating or preparing food.
-* **Hand sanitizer**: If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol, covering all surfaces of your hands and rubbing them together until they feel dry.
-* **Soap and water:** Soap and water are the best option if hands are visibly dirty.
-* **Avoid touching:** Avoid touching your eyes, nose, and mouth with unwashed hands.
+* **చేతులు కడుక్కోండి:** మీ చేతులను కనీసం 20 సెకన్లపాటు సబ్బు మరియు నీటితో కడగాలి. ముఖ్యంగా మీ ముక్కును చీదడం, దగ్గు లేదా తుమ్ము తర్వాత, బాత్రూమ్ కు వెళ్లడం, ఆహారం తినడానికి లేదా సిద్ధం చేయడానికి ముందు చేతులను కడుక్కోవాలి.
+* **హ్యాండ్ శానిటైజర్:** సబ్బు మరియు నీరు తక్షణమే అందుబాటులో లేకపోతే, కనీసం 60% ఆల్కహాల్‌తో ఆల్కహాల్ ఆధారిత హ్యాండ్ శానిటైజర్‌ను వాడండి. మీ చేతుల యొక్క అన్ని ఉపరితలాలను కప్పి, అవి పొడిగా అనిపించే వరకు వాటిని రుద్దండి.
+* **సబ్బు మరియు నీరు:** చేతులు కనిపించే విధంగా మురికిగా ఉంటే సబ్బు మరియు నీటితో కడగడం ఉత్తమం.
+* **తాకడం మానుకోండి:** కళ్ళు, ముక్కు, నోరు కడుక్కోని చేతులతో తాకడం మానుకోండి.
 
-### Avoid sharing personal household items
+### **వ్యక్తిగత గృహ వస్తువులను పంచుకోవడం మానుకోండి**
 
-* **Do not share:** You should not share dishes, drinking glasses, cups, eating utensils, towels, or bedding with other people or pets in your home.
-* **Wash thoroughly after use:** After using these items, they should be washed thoroughly with soap and water.
+* **భాగస్వామ్యం చేయవద్దు:** మీరు వంటకాలు, గ్లాసెస్, కప్పులు, తినే పాత్రలు, తువ్వాళ్లు లేదా పరుపులను మీ ఇంటిలోని ఇతర వ్యక్తులతో లేదా పెంపుడు జంతువులతో పంచుకోకూడదు.
+* **ఉపయోగించిన తర్వాత బాగా కడగాలి:** ఈ వస్తువులను ఉపయోగించిన తరువాత, వాటిని సబ్బు మరియు నీటితో బాగా కడగాలి.
 
-### Clean all “high-touch” surfaces everyday
+### **ప్రతిరోజూ అన్ని “హై-టచ్” వస్తువులను శుభ్రపరచండి**
 
-* **Clean and disinfect:** Practice routine cleaning of high touch surfaces. \*\*High touch surfaces include counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, and bedside tables.
-* **Disinfect areas with bodily fluids:** Also, clean any surfaces that may have blood, stool, or body fluids on them.
-* **Household cleaners:** Use a household cleaning spray or wipe, according to the label instructions. Labels contain instructions for safe and effective use of the cleaning product including precautions you should take when applying the product, such as wearing gloves and making sure you have good ventilation during use of the product.
+* **శుభ్రపరచండి:** ఎక్కువగా తాకుతున్న వస్తువులను శుభ్రపరచడం మర్చిపోవద్దు. కౌంటర్లు, టాబ్లెట్‌లు, డోర్క్‌నోబ్‌లు, బాత్రూమ్ మ్యాచ్‌లు, మరుగుదొడ్లు, ఫోన్లు, కీబోర్డులు, ల్యాప్ టాప్ మరియు బెడ్ షీట్లు వంటివాటిని శుభ్రం చేయడం మర్చిపోవద్దు.
+* **క్రిమిసంహారక మందులతో క్లీన్ చేయండి:** రక్తం, మలం లేదా శరీర ద్రవాలు ఉన్న ఏదైనా ప్రాంతంలో గానీ వస్తువులను గానీ శుభ్రపరచండి.
+* **గృహ క్లీనర్లు:** లేబుల్ సూచనల ప్రకారం గృహం శుభ్రపరిచే స్ప్రేని లేదా తుడవడం ఉపయోగించండి. అలాంటి సమయంలో చేతి తొడుగులు ధరించండి. మంచి వెంటిలేషన్ ఉండేలా చూసుకోండి.
 
-## Monitor your symptoms
+## **మీ లక్షణాలను పర్యవేక్షించండి**
 
-* **Seek medical attention:** Seek prompt medical attention if your illness is worsening \(e.g., difficulty breathing\).
-* **Call your doctor:** Before seeking care, call your healthcare provider and tell them that you have, or are being evaluated for, COVID-19.
-* **Wear a facemask when sick:** Put on a facemask before you enter the facility. These steps will help the healthcare provider’s office to keep other people in the office or waiting room from getting infected or exposed.
-* **Alert health department:** Ask your healthcare provider to call the local or state health department. Persons who are placed under active monitoring or facilitated self-monitoring should follow instructions provided by their local health department or occupational health professionals, as appropriate.
+* **వైద్య సహాయం తీసుకోండి:** మీకు అనారోగ్యం ఎక్కువవుతుంటే వెంటనే వైద్య సహాయం తీసుకోండి. \(ఉదా., శ్వాస తీసుకోవడంలో ఇబ్బంది ఉంటే డాక్టర్ దగ్గరకు వెళ్లండి.
+* **మీ వైద్యుడిని పిలవండి:** సంరక్షణ కోరే ముందు, మీ హెల్త్‌కేర్ ప్రొవైడర్‌కు ఫోన్ చేసి, మీ వద్ద ఉన్న వారికి చెప్పండి.
+* **అనారోగ్యంతో ఉన్నప్పుడు ఫేస్‌మాస్క్ ధరించండి:** మీరు ఎక్కడికైనా వెళ్లే ముందు ఫేస్‌మాస్క్ ధరించండి. దీని వల్ల ఇతర వ్యక్తులకు, కార్యాలయంలో లేదా వెయిటింగ్ రూమ్‌లో ఉన్నవారికి సోకకుండా ఉంటుంది.
+* **హెచ్చరిక ఆరోగ్య విభాగం:** స్థానిక లేదా రాష్ట్ర ఆరోగ్య విభాగానికి కాల్ చేయమని మీ డాక్టర్ ని అడగండి. ఆరోగ్య నిపుణులు అందించిన సూచనలను తగిన విధంగా పాటించండి.
 
-## Discontinuing home isolation
+## **ఇంటిలో ఒంటరిగా జాగ్రత్తలు తీసుకోండి**
 
-* **Stay at home until instructed to leave:** Patients with confirmed COVID-19 should remain under home isolation precautions until the risk of secondary transmission to others is thought to be low.
-* **Talk to your healthcare provider:** The decision to discontinue home isolation precautions should be made on a case-by-case basis, in consultation with healthcare providers and state and local health departments.
+* **బయలుదేరమని సూచించే వరకు ఇంట్లోనే ఉండండి:** ధృవీకరించబడిన COVID-19 ఉన్న రోగులు ఇతరులకు వైరస్ వ్యాపించకుండా ఉండేందుకు ఇంటిలోనే ఒంటరిగా జాగ్రత్తలు తీసుకోవాలి.
+* **మీ హెల్త్‌కేర్ ప్రొవైడర్‌తో మాట్లాడండి:** హెల్త్‌కేర్ ప్రొవైడర్లు మరియు రాష్ట్ర మరియు స్థానిక ఆరోగ్య విభాగాలతో సంప్రదించి, ఇంటిలో తగు జాగ్రత్తలు తీసుకోవాలి.
 
-Source : [https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html)
+సోర్స్ : [https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html)
 

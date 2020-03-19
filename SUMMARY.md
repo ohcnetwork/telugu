@@ -7,13 +7,13 @@
 * [కేరళ ప్రభుత్వం చేపడుతున్న ఆరోగ్య సలహా మార్గదర్శకాలు](health-advisories-by-kerala-government.md)
 * [అపోహలు మరియు నకిలీ వార్తలు](myths-and-fake-news.md)
 * [తరచుగా అడిగే ప్రశ్నలు](faq.md)
-* [Contribute](contribute.md)
+* [సహకరించండి](contribute.md)
 
 ## Actions to take when <a id="action"></a>
 
-* [I am Infected](action/i-am-infected.md)
-* [Someone I know is Infected](action/someone-i-know-is-infected.md)
-* [Home Isolation](action/home-isolation.md)
+* [నాకు సోకింది](action/i-am-infected.md)
+* [నాకు తెలిసిన వారికి ఎవరికైనా సోకినట్లైతే..](action/someone-i-know-is-infected.md)
+* [ఇంటి ఒంటరితనం](action/home-isolation.md)
 
 ## Contact
 

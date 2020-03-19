@@ -1,36 +1,30 @@
 ---
 description: >-
-  Home isolation measures for people with confirmed or suspected COVID-19 who do
-  not need to be hospitalized and people who were hospitalized and then
-  determined to be medically stable to go home.
+  హెల్త్‌కేర్ ప్రొవైడర్ లేదా స్థానిక లేదా రాష్ట్ర ఆరోగ్య విభాగం మీరు మీ సాధారణ
+  కార్యకలాపాలకు తిరిగి రావచ్చని చెప్పే వరకు మీరు దిగువ నివారణ చర్యలను పాటించాలి.
 ---
 
-# Home Isolation
+# ఇంటి ఒంటరితనం
 
-You should follow the prevention steps below until a healthcare provider or local or state health department says you can return to your normal activities.
+దగ్గు లేదా తుమ్ములు ఉన్నప్పుడు నోరు మరియు ముక్కును ముసుగు లేదా కర్చీఫ్ తో కప్పి ఉంచాలి. ముసుగు లేదా కర్చీఫ్ అందుబాటులో లేకపోతే మీ చేతులను దగ్గు లేదా తుమ్మినప్పుడు అడ్డుగా పెట్టుకోవాలి.
 
-* Well ventilated non AC room
-* Windows kept open during day time
-* Room should have attached bathroom or separate bathroom for the suspected patient.
-* Do not share utensils, linen or other items.
-* Practice frequent handwashing with soap and water especially after toilet or
-
-  contact with body fluids.
-
-* Follow personal hygiene
-* Follow respiratory hygiene
-  * Cover mouth and nose with mask or tissue while coughing or sneezing
-  * If mask or tissue is not available cough or sneeze to your flexed elbow followed by
-
-    hand hygiene
-* Three buckets for waste collection
-  1. soiled linen, clothes, towel – disinfect with bleach, wash and sun dry before next use
-  2. soiled mask, tissues, pad – for incineration
-  3. for bio medical waste - for burial
-* Room should be mopped with bleach solution
-* Bleach solution can be used to clean furniture, wash basin, toilet seats etc
-* Alcohol based hand rub at the room entrance to be used by care giver
-* No visitors should be allowed
-* Should not attend meetings, social gatherings, parties etc
-* Avoid public transport
+* బాగా వెంటిలేటెడ్ నాన్ ఎసి రూమ్
+* విండోస్ పగటిపూట తెరిచి ఉంచబడుతుంది
+* గదిలో అనుమానాస్పద రోగికి బాత్రూమ్ లేదా ప్రత్యేక బాత్రూమ్ ఉండాలి.
+* పాత్రలు, నార లేదా ఇతర వస్తువులను పంచుకోవద్దు.
+* ముఖ్యంగా మరుగుదొడ్డి తర్వాత లేదా శరీర ద్రవాలతో సంబంధం ఉన్న తరువాత సబ్బు మరియు నీటితో తరచుగా చేతితో కడగడం సాధన చేయండి.
+* వ్యక్తిగత పరిశుభ్రతను పాటించండి
+* శ్వాసకోశ పరిశుభ్రతను అనుసరించండి
+  * దగ్గు లేదా తుమ్ము ఉన్నప్పుడు నోరు మరియు ముక్కును ముసుగు లేదా కణజాలంతో కప్పండి
+  * ముసుగు లేదా కణజాలం అందుబాటులో లేకపోతే మీ వంగిన మోచేయికి దగ్గు లేదా తుమ్ము తరువాత చేతి పరిశుభ్రత
+* వ్యర్థాల సేకరణకు మూడు బకెట్లు
+  1. సాయిల్డ్ నార, బట్టలు, టవల్ - తదుపరి ఉపయోగం ముందు బ్లీచ్, వాష్ మరియు ఎండ పొడితో క్రిమిసంహారక.
+  2. సాయిల్డ్ మాస్క్, టిష్యూస్, ప్యాడ్ - భస్మీకరణం కోసం
+  3. బయో మెడికల్ వ్యర్థాల కోసం - ఖననం కోసం
+* గదిని బ్లీచ్ ద్రావణంతో కప్పాలి
+* ఫర్నిచర్, వాష్ బేసిన్, టాయిలెట్ సీట్లు మొదలైన వాటిని శుభ్రం చేయడానికి బ్లీచ్ ద్రావణాన్ని ఉపయోగించవచ్చు
+* సంరక్షణ ఇచ్చేవారు ఉపయోగించాల్సిన గది ప్రవేశద్వారం వద్ద ఆల్కహాల్ బేస్డ్ హ్యాండ్ రబ్
+* సందర్శకులను అనుమతించకూడదు
+* సమావేశాలు, సామాజిక సమావేశాలు, పార్టీలు మొదలైన వాటికి హాజరు కాకూడదు
+* ప్రజా రవాణాను మానుకోండి
 
