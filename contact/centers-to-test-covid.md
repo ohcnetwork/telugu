@@ -2,17 +2,17 @@
 description: Details of Centers to test for COVID-19 Infection
 ---
 
-# Centers to Test for COVID-19
+# COVID-19 ను పరీక్షించే కేంద్రాలు
 
-_**A swab test:**_ A sample from your throat or nose will be collected with the help of a cotton swab.
+_**స్వాబ్ టెస్ట్**_**:** పత్తి ద్వారా మీ గొంతు లేదా ముక్కు నుండి ఒక నమూనా సేకరించబడుతుంది.
 
-_**A nasal aspirate:**_ In this method, the lab technician will inject a saline solution into your nose, and then remove the sample with a gentle suction.
+_**నాసికా ఆస్పిరేట్**_**:** ఈ పద్ధతిలో, ల్యాబ్ టెక్నీషియన్ మీ ముక్కులోకి ఒక సెలైన్ ద్రావణాన్ని పంపిస్తారు, ఆపై సున్నితమైన సూదితో ఒక నమూనాను తీసుకుంటారు.
 
-_**A tracheal aspirate:**_ A thin, lighted tube called a bronchoscope is inserted into your lungs, from where a sample is collected for testing.
+_**ట్రాచల్ ఆస్పిరేట్**_**:** బ్రోంకోస్కోప్ అని పిలువబడే సన్నని సూది గొట్టం మీ ఊపిరితిత్తులలోకి చేర్చబడుతుంది. అక్కడ నుండి పరీక్ష కోసం ఒక నమూనా సేకరిస్తారు.
 
-_**A sputum test:**_ Sputum can be collected either from the nose with a swab or by asking the patient to cough up the mucus.
+_**కఫం పరీక్ష:**_ ****ముక్కు నుండి లేదా శ్లేష్మం దగ్గు ద్వారా రోగి కఫం సేకరిస్తారు.
 
-_**A blood test:**_ Blood sample is drawn and tested in a lab for the virus. This is either done through a blanket test for all variants of the coronavirus \(including regular flu\) or through a specialised gene-sequencing test that locates the marker for the novel coronavirus.
+_**రక్త పరీక్ష:**_ వైరస్ కోసం ప్రయోగశాలలో రక్త నమూనాను తీసి పరీక్షిస్తారు. కరోనావైరస్ మార్కర్‌ను గుర్తించే ప్రత్యేకమైన జన్యు-శ్రేణి పరీక్ష ద్వారా ఇది జరుగుతుంది.
 
 ## Centers to get tested:
 
