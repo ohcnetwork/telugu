@@ -4,42 +4,40 @@ description: Describes the necessary preventive measures to the spread of COVID-
 
 # జాగ్రత్తలు మరియు నివారణ చర్యలు
 
-Even though COVID-19 is a highly contagious disease, taking adequate precautions can help prevent you from being infected.
+COVID-19 అత్యంత అంటు వ్యాధి అయినప్పటికీ, తగిన జాగ్రత్తలు తీసుకోవడం వలన మీరు వ్యాధి బారిన పడకుండా నిరోధించవచ్చు. ఈ వ్యక్తి తుమ్ము లేదా దగ్గుతో బాధపడుతున్న వ్యక్తి యొక్క ముక్కు లేదా నోటి నుండి చిన్న బిందువుల ద్వారా వైరస్ వ్యాపిస్తుంది. ఈ బిందువులు మూలం నుండి 1 మీటర్ కంటే ఎక్కువ ప్రయాణించగలవు. వస్తువులు మరియు ఉపరితలాలపైకి రావచ్చు. ఇతర వ్యక్తులు ఉపరితలాన్ని తాకి, ఆపై వారి కళ్ళు, నోరు లేదా ముక్కును తాకడం ద్వారా వైరస్ బారిన పడే ప్రమాదం ఉంది. బాధిత వ్యక్తి మధ్య దూరం ఒక మీటర్ కంటే తక్కువ ఉంటే ఈ బిందువులను పీల్చడం ద్వారా కూడా వైరస్ వచ్చే ప్రమాదం ఉంది.
 
-The virus spread through small droplets from the nose or mouth of the affected person, when the person sneezes or coughs. These droplets can travel more than 1 meter from the source and might land on objects and surfaces. Other people can catch the virus by touching the surface and then touching their eyes, mouth or nose. The virus can also be caught by inhaling these droplets if the distance between the affected person is less than one meter.
+**నివారణ చర్యలు**
 
-## Preventive Measures
-
-There is no data showing that the virus can be transmitted through air. Hence, follow these steps to protect yourselves and the ones around you.
+వైరస్ గాలి ద్వారా వ్యాప్తి చెందుతుందని చూపించే డేటా లేదు. అందువల్ల, మిమ్మల్ని మరియు మీ చుట్టూ ఉన్న వారిని రక్షించుకోవడానికి కొన్ని ముఖ్య సూచనలను పాటించండి.
 
 {% hint style="danger" %}
-If you are above 60+ years of age or have any existing or past medical condition such as Heart diseases, Diabetes, Respiratory Diseases, Hypertension or any serious illness, you will have to take special precautions here.
+మీరు 60+ సంవత్సరాల కంటే ఎక్కువ వయస్సు ఉన్నవారు లేదా గుండె జబ్బులు, డయాబెటిస్, శ్వాసకోశ వ్యాధులు, రక్తపోటు లేదా ఏదైనా తీవ్రమైన అనారోగ్యం వంటి ప్రస్తుత లేదా గత వైద్య పరిస్థితులను కలిగి ఉంటే, మీరు ఇక్కడ ప్రత్యేక జాగ్రత్తలు తీసుకోవాలి.
 {% endhint %}
 
 {% page-ref page="old-and-people-with-medical-issues.md" %}
 
-### Washing your hands frequently
+**మీ చేతులను తరచుగా కడగాలి**
 
-Since transmission mainly occurs through your hands, you should wash them frequently and thoroughly. It is recommended to use soap and water when available, else use hand sanitizers with sufficient amount of alcohol to kill off the germs.
+వైరస్ చేతుల ద్వారా ఎక్కువగా అంటుకుంటుంది. కాబట్టి, మీరు మీ చేతులను తరచుగా కడగడం అలవాటు చేసుకోవాలి. అందుబాటులో ఉన్న సబ్బు, నీటి ద్వారా చేతులను కడుక్కోవడం మంచిది. లేకపోతే సూక్ష్మక్రిములను చంపడానికి తగినంత మొత్తంలో ఆల్కహాల్ ఉన్న హ్యాండ్ శానిటైజర్లను వాడటం ఎంతో ఉత్తమం
 
-> **Wash your hands frequently with soap and water for atleast 20 seconds or an alcohol based hand sanitizer.**
+> **కనీసం 20 సెకన్ల పాటు సబ్బు లేదా నీటితో మీ చేతులను కడగాలి. లేదా ఆల్కహాల్ బేస్డ్ హ్యాండ్ శానిటైజర్ ను ఉపయోగించాలి.**
 
-### Avoid Touching Your Eyes, Nose and Mouth
+**మీ కళ్ళు, ముక్కు, నోటిని తాకడం మానుకోండి**
 
-The virus can come in contact with your skin at any time, particularly your hands. If the contaminated skin touched your eyes, nose or mouth the virus can be transferred into your body thereby infecting you.
+వైరస్ చేతుల ద్వారా చర్మంపై వ్యాపిస్తుంటుంది. కలుషితమైన చర్మం మీ కళ్ళు, ముక్కు లేదా నోటిని తాకినట్లయితే వైరస్ మీ శరీరంలోకి చొచ్చుకుని వెళ్తుంది. దీంతో వైరస్ సోకే ప్రమాదం ఉంది.
 
-> **Don't touch your face without washing your hands first.**
+> **మొదట చేతులు కడుక్కోకుండా మీ ముఖాన్ని తాకవద్దు**
 
-### **Maintain Distance**
+**దూరాన్ని నిర్వహించండి**
 
-Depending on the level of outbreak in your local community it is [advised ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)to keep a safe distance of at-least 1 meter \(&gt; 3 feet\) from anyone who is coughing or sneezing. If you are in the vicinity when the person sneezes or coughs they can produce small droplets which you can inhale and become infected if the person is infected.
+మీ ప్రాంతంలో దగ్గు లేదా తుమ్ము ఉన్నవారి నుండి కనీసం 1 మీటర్ \(&gt; 3 అడుగులు\) దూరంలో ఉండేలా చూసుకోవాలి. ఒక వ్యక్తికి తుమ్ము లేదా దగ్గు ఉన్నప్పుడు మీరు సమీపంలో ఉంటే వారి నుంచి వచ్చే చిన్న చిన్న బిందువులు మీకు వైరస్ ను కలుగజేస్తాయి.
 
-### Cover Your Mouth and Nose while Sneezing or Coughing
+**తుమ్ము లేదా దగ్గు ఉన్నప్పుడు మీ నోరు మరియు ముక్కును కప్పండి**
 
-If you are coughing or sneezing do so while covering your face with a bent elbow or a hand kerchief. This would help prevent the spread viruses such as Flu, Cold or COVID-19.
+తుమ్ము లేదా దగ్గు ఉన్నప్పుడు మీ నోటికి, ముక్కుకు అడ్డంగా రుమాలు ఉపయోగించాలి. ఫ్లూ, కోల్డ్ లేదా COVID-19 వంటి వైరస్ ల వ్యాప్తి జరగకుండా ఇది నివారిస్తుంది.
 
 {% hint style="info" %}
-If you think you have been infected, follow these specialized instructions for your safety and others.
+మీరు సోకినట్లు మీరు భావిస్తే, మీ భద్రత మరియు ఇతరుల కోసం ఈ ప్రత్యేకమైన సూచనలను అనుసరించండి.
 {% endhint %}
 
 {% page-ref page="action/i-am-infected.md" %}

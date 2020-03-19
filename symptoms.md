@@ -4,17 +4,17 @@ description: Describes the major symptoms of COVID-19.
 
 # లక్షణాలు
 
-The most common symptoms of COVID-19 are fever, tiredness, and dry cough. They are usually mild and begin gradually. They appear around [2 - 14 days](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html) with average symptoms showing up after 5 days of being infected.
+COVID-19 వల్ల సాధారణంగా జ్వరం, అలసట మరియు పొడి దగ్గు వంటివి వస్తాయి. అవి సాధారణంగా తేలికపాటివి. ఇవి [2 - 14 రోజులలో](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Fsymptoms.html) కనిపిస్తాయి. సోకిన 5 రోజుల తర్వాత సగటు లక్షణాలు కనిపిస్తాయి.
 
-Some symptoms appear less common than others. The major symptoms of COVID-19 based on how [common](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19) it appears in the reported cases are
+కొన్ని లక్షణాలు చాలా తక్కువగా కనిపించే ప్రమాదం కూడా ఉంది. COVID-19 యొక్క ప్రధాన లక్షణాలు [ఏవిధంగా](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19) ఉంటాయో ఇప్పుడు తెలుసుకుందాం.
 
-* Fever 
-* Dry Cough 
-* Fatigue 
-* Sputum Production 
-* Shortness of Breath 
-* Muscle Pain or Joint Pain
-* Sore Throat 
+* ఫీవర్ 
+* పొడి దగ్గు 
+* అలసట 
+* కఫం ఉత్పత్తి 
+* శ్వాస ఆడకపోవడం 
+* కండరాల నొప్పి లేదా కీళ్ల నొప్పి
+* గొంతు మంట 
 
-Most of the symptoms overlap with those of flu and common cold. COVID-19 [rarely produces a runny nose.](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19)
+చాలా లక్షణాలు ఫ్లూ మరియు జలుబుతో కలిసిపోతాయి. COVID-19 వైరస్ [వల్ల ముక్కు కారటం కూడా వేగంగా](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19) జరుగుతుంది.
 
